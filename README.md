@@ -1,5 +1,5 @@
-👋 Hi, I’m @barboraplasovska
-🌱 I’m currently studying ING1 at EPITA!💞️
+👋 Hi, I’m @barboraplasovska <br>
+🌱 I’m currently studying ING1 at EPITA!💞️<br>
 📫 You can reach out to me on [LinkedIn](www.linkedin.com/in/barboraplasovska)!
 
 <!---
