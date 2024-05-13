@@ -7,6 +7,10 @@
 📫 &nbsp;You can reach out to by email at bplasovska@gmail.com!\
 📄 &nbsp;Check out my [website](https://barbora.plasovska.com)!
 
+### 💛 Personal projects
+🐝 &nbsp;BeeBetter Habit Tracker (see on [appstore](https://apps.apple.com/app/beebetter-habit-tracker/id6502307654))\
+🧶 &nbsp;Stitch Counter (see on [appstore](https://apps.apple.com/fr/app/stitchcounterapp/id6480349416))
+
 ### 🛠 &nbsp;Skills
 
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=FA7343)&nbsp;
