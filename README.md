@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like problem solving and iOS development!\
-🎓 &nbsp;I’m currently studying ING2 at EPITA!💞️\
+🎓 &nbsp;I’m currently studying my last year at EPITA and looking for an end of studies internship in iOS!💞️\
 📫 &nbsp;You can reach out to by email at bplasovska@gmail.com!\
 📄 &nbsp;Check out my [website](https://barbora.plasovska.com)!
 
