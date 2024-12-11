@@ -8,8 +8,9 @@
 📄 &nbsp;Check out my [website](https://barbora.plasovska.com)!
 
 ### 💛 Personal projects
+👟 &nbsp;Track My Shoe (see on [appstore](https://apps.apple.com/app/id6738585430))\
 🐝 &nbsp;BeeBetter Habit Tracker (see on [appstore](https://apps.apple.com/app/beebetter-habit-tracker/id6502307654))\
-🧶 &nbsp;Stitch Counter (see on [appstore](https://apps.apple.com/fr/app/stitchcounterapp/id6480349416))
+🧶 &nbsp;Stitch Counter (see on [appstore](https://apps.apple.com/app/stitchcounterapp/id6480349416))
 
 ### 🛠 &nbsp;Skills
 
