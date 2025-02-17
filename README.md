@@ -3,21 +3,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like problem solving and iOS development!\
-🎓 &nbsp;I’m currently at iOS engineer intern at Datadog and studying my last year at EPITA!💞️\
-📫 &nbsp;You can reach out to by email at bplasovska@gmail.com!\
+🎓 &nbsp;I’m currently an iOS engineer intern at Datadog and studying my last year at EPITA!💞️\
 📄 &nbsp;Check out my [website](https://barbora.plasovska.com)!
 
 ### 💛 Personal projects
 👟 &nbsp;Track My Shoe (see on [appstore](https://apps.apple.com/app/id6738585430))\
 🐝 &nbsp;BeeBetter Habit Tracker (see on [appstore](https://apps.apple.com/app/beebetter-habit-tracker/id6502307654))\
 🧶 &nbsp;Stitch Counter (see on [appstore](https://apps.apple.com/app/stitchcounterapp/id6480349416))
-
-### 🛠 &nbsp;Skills
-
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=FA7343)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
